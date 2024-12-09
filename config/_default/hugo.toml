@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+ignoreFiles = ["README.md"]
+disableKinds = ["taxonomy", "term"]
+[params]
+    description = 'A simple description'
